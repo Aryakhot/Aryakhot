@@ -1,3 +1,6 @@
+💫 About Me:
+
+
 - 👋 Hey there! I'm Arya Khot, a Software enthusiast, diving into the digital world one code at a time. Here's what's brewing in my tech cauldron:
 - 👀 I’m interested in web development, Java programming, and exploring the vast landscape of Artificial Intelligence.
 - 🌱 I’m currently learning Data Structures and Algorithms in Java, honing my skills in web development, and dipping my toes into the realms of PHP,JavaScript and Artificial Intelligence.
