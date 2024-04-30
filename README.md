@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in Java, honing my skills in web development and AI/ML.**
 
-- 📫 How to reach me **Drop me a line at aryakhotwork@gmail.com, and let's discuss some code!**
+- 📫 **Drop me a line at aryakhotwork@gmail.com, and let's discuss some code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
