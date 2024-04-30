@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi 👋, I'm Arya Khot, a Software enthusiast, diving into the digital world one code at a time.<br>👩‍💻A passionate software developer from India. I’m interested in web development, Java programming, and exploring the vast landscape of AI/ML.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Data Structures and Algorithms in Java, honing my skills in web development and AI/ML.<br>📫 Reach me at: aryakhotwork@gmail.com<br>
+🔭 Hi 👋, I'm Arya Khot, a Software enthusiast, diving into the digital world one code at a time.<br>👩‍💻 A passionate software developer from India. I’m interested in web development, Java programming, and exploring the vast landscape of AI/ML.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Data Structures and Algorithms in Java, honing my skills in web development and AI/ML.<br>📫 Reach me at: aryakhotwork@gmail.com<br>
 
 
 ## 🌐 Socials:
