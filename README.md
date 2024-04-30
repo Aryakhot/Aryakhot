@@ -7,7 +7,7 @@
 
 - 📫 **Drop me a line at aryakhotwork@gmail.com, and let's discuss some code!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: http://linkedin.com/in/arya-khot-76582a287</h3>
 <p align="left">
 </p>
 
